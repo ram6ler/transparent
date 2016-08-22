@@ -1,0 +1,11 @@
+Package: transparent
+Type: Package
+Title: Set the Transparency of Regular R Colours and Draw Basic Shapes
+Version: 0.1.0
+Author: Richard Ambler
+Maintainer: Richard Ambler <rambler@ibwya.net>
+Description: A set of helpers for conveniently setting R colour alpha levels and
+    adding basic shapes to plots.
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
