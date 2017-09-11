@@ -14,7 +14,7 @@ devtools::install_github("ram6ler/transparent")
 
 ## Example
 
-Here is a little script that adds 20 randomly coloured circles to a plot.
+Here is a little script that adds 20 randomly coloured circles to a plot. Notice that the fills are the same colour as the borders and texts, only transparent.
 
 
 ```r
